@@ -1,5 +1,8 @@
 # OmniTV-Streaming
 
+<<<<<< codex/generate-four-mermaid-diagrams-for-iptv-app-architecture-3a2ggk
+Este repositório contém o monorepo **OmniTV-IPTV** com apps para Samsung Tizen, LG webOS e Roku. Consulte [`OmniTV-IPTV/README.md`](OmniTV-IPTV/README.md) para instruções completas.
+=======
 ## Diagramas de Arquitetura
 
 ### Diagrama 1 — Visão de Componentes
@@ -193,3 +196,4 @@ sequenceDiagram
         Notas: JWT curtos,\nrevogação via blacklist
     end
 ```
+>>>>>> main

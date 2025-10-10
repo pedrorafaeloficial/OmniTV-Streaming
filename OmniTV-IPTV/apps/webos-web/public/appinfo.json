@@ -1,0 +1,9 @@
+{
+  "id": "com.omnitv.webos",
+  "version": "1.0.0",
+  "vendor": "OmniTV",
+  "type": "web",
+  "main": "index.html",
+  "title": "OmniTV",
+  "largeIcon": "icon.png"
+}
