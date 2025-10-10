@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wgt xmlns="http://www.w3.org/ns/widgets" id="com.omnitv.app" version="1.0.0">
+  <name>OmniTV</name>
+  <content src="index.html" />
+  <icon src="icon.png" />
+  <tizen:profile name="tv" />
+  <tizen:setting screen-orientation="landscape" background-support="disable" encryption="disable" install-location="auto" hwkey-event="enable"/>
+</wgt>

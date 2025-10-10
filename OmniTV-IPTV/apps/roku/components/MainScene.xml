@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="MainScene" extends="Scene">
+  <interface>
+    <field id="state" type="string" />
+  </interface>
+  <children>
+    <Label id="title" translation="[60,60]" text="OmniTV" font="font:MediumBoldSystemFont" />
+    <PosterGrid id="grid" translation="[60,160]" itemSize="[420,236]" numRows="1" itemSpacing="[36,0]" />
+    <OmniLoginDialog id="login" visible="false" />
+  </children>
+</component>
